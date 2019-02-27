@@ -59,4 +59,5 @@ sysinfo.txt
 *.swp
 StyleCop*
 
-*.meta
+# Via VR ignore everything
+*
